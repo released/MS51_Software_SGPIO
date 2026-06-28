@@ -350,6 +350,8 @@ The LA annotation groups `SDATA OUT` bits into slot triplets after the SLOAD res
 
 <img src="./LA_38_8E_C3_00.jpg" alt="SGPIO logic analyzer decode for raw 38 8E C3 00" width="960">
 
+<img src="./LA_38_8E_C3_00%232.jpg" alt="Additional SGPIO logic analyzer decode for raw 38 8E C3 00" width="960">
+
 <img src="./Log_38_8E_C3_00.jpg" alt="MS51 SGPIO UART decode log for raw 38 8E C3 00" width="900">
 
 ### Example: `78 9C 24 00`
@@ -358,6 +360,8 @@ This example verifies that mixed slot states are not limited to all-on/all-off p
 
 <img src="./LA_78_9C_24_00.jpg" alt="SGPIO logic analyzer decode for raw 78 9C 24 00" width="960">
 
+<img src="./LA_78_9C_24_00%232.jpg" alt="Additional SGPIO logic analyzer decode for raw 78 9C 24 00" width="960">
+
 <img src="./Log_78_9C_24_00.jpg" alt="MS51 SGPIO UART decode log for raw 78 9C 24 00" width="900">
 
 ### Example: `11 15 51 11 15 51`
@@ -365,6 +369,8 @@ This example verifies that mixed slot states are not limited to all-on/all-off p
 This is a full 16-slot capture. The log prints `S0..S7` and `S8..S15` separately so the 48-bit SDataOut stream can be checked without wrapping into an unreadable single line.
 
 <img src="./LA_11_15_51_11_15_51.jpg" alt="SGPIO logic analyzer decode for raw 11 15 51 11 15 51" width="960">
+
+<img src="./LA_11_15_51_11_15_51%232.jpg" alt="Additional SGPIO logic analyzer decode for raw 11 15 51 11 15 51" width="960">
 
 <img src="./Log_11_15_51_11_15_51.jpg" alt="MS51 SGPIO UART decode log for raw 11 15 51 11 15 51" width="900">
 
